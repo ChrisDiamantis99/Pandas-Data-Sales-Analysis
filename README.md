@@ -1,4 +1,4 @@
-Pandas-Data-Sales-Analysis
+Pandas-Data-Analysis-Project
 ____________________________________________________________________________
 Set of a random sales-data that I have obtained and downloaded from Kaggle.
 
